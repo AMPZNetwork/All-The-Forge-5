@@ -1,7 +1,7 @@
-# All The Forge
+# All The Forge 5
 ======
 
-This is the official repository and issue-tracker for All The Forge
+This is the official repository and issue-tracker for All The Forge 5
     
 #### Modpack Links: 
 + https://www.curseforge.com/minecraft/modpacks/all-the-forge-5 
