@@ -1,6 +1,33 @@
 §lUpdate History
 §l§c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
 -----------------------------------------------------------------
+1.0.2 (Beta 3)
+
+Please report any issues you may have over at: https://github.com/AMPZNetwork/All-The-Forge-5
+
+§lNew Mods:
+*Savage & Ravages
+*Autumnity
+*Bloomful
+*Valhelsia Structures
+*Variant16x
+*Variant16x: Biomes O Plenty
+
+Fixes/changes
+*Fixed error "chat.falling_tree.tree_too_big"
+*Renamed "Official Server" to Public Servers
+*Created a BDcraft 128x pack (download over at our Discord server)
+*Added ATF5 (Beta) Test server IP
+*The minimum verion of java recquied is now set to 1.8.0_261
+*Faithful texture pack now supports even more connect textures
+
+§l§cRemoved Mods:
+*Dungeon Crawl
+*Magical Forest
+
+§lMod Updates:
+*OptiFine (G5 pre2 → G6 Pre 5)
+-----------------------------------------------------------------
 1.0.1 (Beta 2)
 
 §lNew Mods:
