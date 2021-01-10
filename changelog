@@ -1,6 +1,36 @@
 §lUpdate History
 §l§c!!! BACKUP YOUR WORLDS BEFORE UPDATING !!!
 -----------------------------------------------------------------
+1.0.3 (Beta 4)
+
+Please report any issues you may have over at: https://github.com/AMPZNetwork/All-The-Forge-5
+
+§lNew Mods:
+*Mine And Slash
+*Astral Sorcery
+*Botania
+*Doggy Talents
+
+§lFixes/changes
+*Added Faithful Programmer Art texture pack
+*Fixed "java.lang.NullPointerException: Rendering overlay"
+*Removed baby creepers
+*Removed Quark's ability to create enchment books
+*Removed Quark's Slate
+*Increased Tree copping hight
+*Moved JournyMap to Top Right of screen
+*Lowered the spawn rate of Valhelsia Structures
+
+§l§cRemoved Mods:
+*Egg Tab
+*Snow Under Trees
+*Shatter
+*iChunUtil
+*Better Animal Plus
+
+§lMod Updates:
+*Macaw's Furniture (1.0.1 → 2.0.0)
+-----------------------------------------------------------------
 1.0.2 (Beta 3)
 
 Please report any issues you may have over at: https://github.com/AMPZNetwork/All-The-Forge-5
