@@ -12,7 +12,6 @@ https://github.com/AMPZNetwork/All-The-Forge-5
 ---------------------------------------------------------------------------------------------
 <h1>1.0.3 (Beta 4)</h1>
 
-Please report any issues you may have over at: https://github.com/AMPZNetwork/All-The-Forge-5
 
 **Updated:**
 + Macaw's Furniture (1.0.1 → 2.0.0)
