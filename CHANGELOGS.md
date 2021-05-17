@@ -2,6 +2,43 @@
 # All The Forge 5 - ATF5 | Patch Notes</h1>
 <h2>Be sure to always backup your world(s) before updating!</h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.2.1</h1>
+
+
+**Updated:**
++ Minecraft Forge (31.2.48 → 31.2.50)
++ FancyMenu (1.7.1 → 2.0.6)
++ Konkrete (1.1.3 → 1.1.6)
++ Macaw's Trapdoors (1.0.1 → 1.0.2)
++ Controllable (0.11.1 → 0.11.2)
++ CodeChicken Lib 1.8.+ (3.3.5.407 → 3.3.6.424)
++ Collective (1.61 → 2.26)
++ Fixed Anvil Repair Cost (1.3 → 1.4)
++ CraftPresence (1.7.6 → 1.8.1)
++ JAOPCA (3.2.0.17 → 3.2.0.18)
++ JourneyMap (5.7.0b3 → 5.7.0)
++ Just Enough Items (6.0.3.15 → 6.0.3.16)
++ Mine and Slash (3.9.3 → 3.9.11)
++ Variant16x (v0.17.2.1 → v0.21.2)
+
+**Changed/Fixed**
++ Added the ability to mute the Main Menu.
++ Updated Discord Logo.
++ Updated Pack icon and logo.
+
+**Added:**
++ Controlling
++ Macaw's Fences and Walls
+
+**Removed:**
++ It's the little things
++ Aquaculture 2
+
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/All-The-Forge-5
+
+---------------------------------------------------------------------------------------------
 <h1>1.2.0</h1>
 
 
